@@ -1,0 +1,13 @@
+.
+./LinuxDirectories
+./LinuxDirectories/techtorial.txt
+./trash
+./.local
+./.local/share
+./.local/share/nano
+./home
+./.ssh
+./linux
+./linux/linux_intro.txt
+./LinuxPractices
+./.cache
