@@ -1,0 +1,17 @@
+total 40
+-rw-rw-r-- 1 ubuntu ubuntu    0 Apr  5 23:15 Change
+drwxrwxr-x 3 ubuntu ubuntu 4096 Apr  7 00:31 LinuxDirectories
+drwxrwxr-x 2 ubuntu ubuntu 4096 Apr  7 00:27 LinuxPractices
+-rw-rw-r-- 1 ubuntu ubuntu  179 Apr  7 01:21 allthefolders.txt
+-rw-rw-r-- 1 ubuntu ubuntu   21 Apr  7 01:13 command
+-rw-rw-r-- 1 ubuntu ubuntu   31 Apr  5 23:11 file
+drwxrwxr-x 2 ubuntu ubuntu 4096 Apr  6 01:43 home
+drwxrwxr-x 3 ubuntu ubuntu 4096 Apr  6 01:13 linux
+-rw-rw-r-- 1 ubuntu ubuntu    0 Apr  7 01:43 listoffiles.txt
+-rw-rw-r-- 1 ubuntu ubuntu   50 Apr  5 02:06 newfile
+-rw-rw-r-- 1 ubuntu ubuntu   13 Apr  5 23:15 print
+-rw-rw-r-- 1 ubuntu ubuntu    0 Apr  5 23:15 secure
+-rw-rw-r-- 1 ubuntu ubuntu    0 Apr  7 01:15 temporary.txt
+drwxrwxr-x 2 ubuntu ubuntu 4096 Apr  6 00:30 trash
+-On the day of April
+ 

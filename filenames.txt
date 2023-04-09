@@ -1,0 +1,15 @@
+Change
+LinuxDirectories
+LinuxPractices
+allthefolders.txt
+command
+file
+filenames.txt
+home
+linux
+listoffiles.txt
+newfile
+print
+secure
+temporary.txt
+trash
